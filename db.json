@@ -8,314 +8,146 @@
         "That that country",
         "Yada yad country"
     ],
-    "job_list": {
-    "status": true,
-    "msg": "Successfully retrieved available jobs",
-    "return": {
-        "jobs": [
-            {
-                "cost_id": "155078",
-                "cost_status": "new",
-                "published_datetime": "2019-07-12 16:07:09",
-                "job_id": "157807",
-                "job_type": "t4b",
-                "transport_type": "1",
-                "fare": "0.00",
-                "pickup_datetime": "2019-07-18 16:00:00",
-                "country": "my",
-                "addressArray": [
-                    {
-                        "lat": "3.0396314",
-                        "lng": "101.7053286",
-                        "city": "Seri Kembangan",
-                        "type": "pickup",
-                        "state": "Selangor",
-                        "sequence": "1"
-                    },
-                    {
-                        "lat": "3.0402939",
-                        "lng": "101.7052853",
-                        "city": "Seri Kembangan",
-                        "type": "dropoff",
-                        "state": "Selangor",
-                        "sequence": "2"
-                    }
-                ],
-                "extraitemsArray": [
-                    {
-                        "itemName": "Manpower"
-                    }
-                ]
-            },
-            {
-                "cost_id": "155090",
-                "cost_status": "new",
-                "published_datetime": "2019-07-15 15:14:39",
-                "job_id": "157822",
-                "job_type": "b2c",
-                "transport_type": "9",
-                "fare": "129.00",
-                "pickup_datetime": "2019-07-23 10:00:00",
-                "country": "my",
-                "addressArray": [
-                    {
-                        "lat": "3.1259263",
-                        "lng": "101.7871573",
-                        "city": "",
-                        "type": "pickup",
-                        "state": "Selangor",
-                        "sequence": "1"
-                    },
-                    {
-                        "lat": "3.0431583",
-                        "lng": "101.4495874",
-                        "city": "",
-                        "type": "dropoff",
-                        "state": "Selangor",
-                        "sequence": "2"
-                    }
-                ],
-                "extraitemsArray": []
-            },
-            {
-                "cost_id": "155098",
-                "cost_status": "new",
-                "published_datetime": "2019-07-15 16:47:32",
-                "job_id": "157834",
-                "job_type": "b2c",
-                "transport_type": "9",
-                "fare": "475.00",
-                "pickup_datetime": "2019-07-15 20:00:00",
-                "country": "my",
-                "addressArray": [
-                    {
-                        "lat": "3.1405713",
-                        "lng": "101.7112744",
-                        "city": "",
-                        "type": "pickup",
-                        "state": "Wilayah Persekutuan Kuala Lumpur",
-                        "sequence": "1"
-                    },
-                    {
-                        "lat": "4.5969210",
-                        "lng": "101.0831560",
-                        "city": "",
-                        "type": "dropoff",
-                        "state": "Negeri Perak",
-                        "sequence": "2"
-                    }
-                ],
-                "extraitemsArray": [
-                    {
-                        "itemName": "manpower"
-                    }
-                ]
-            },
-            {
-                "cost_id": "155099",
-                "cost_status": "new",
-                "published_datetime": "2019-07-15 16:56:45",
-                "job_id": "157835",
-                "job_type": "b2c",
-                "transport_type": "9",
-                "fare": "763.00",
-                "pickup_datetime": "2019-07-15 20:00:00",
-                "country": "my",
-                "addressArray": [
-                    {
-                        "lat": "1.4866095",
-                        "lng": "103.7664073",
-                        "city": "",
-                        "type": "pickup",
-                        "state": "Johor",
-                        "sequence": "1"
-                    },
-                    {
-                        "lat": "3.0475717",
-                        "lng": "101.4315310",
-                        "city": "",
-                        "type": "dropoff",
-                        "state": "Selangor",
-                        "sequence": "2"
-                    }
-                ],
-                "extraitemsArray": [
-                    {
-                        "itemName": "manpower"
-                    }
-                ]
-            },
-            {
-                "cost_id": "155100",
-                "cost_status": "new",
-                "published_datetime": "2019-07-15 17:15:04",
-                "job_id": "157838",
-                "job_type": "b2c",
-                "transport_type": "9",
-                "fare": "1145.00",
-                "pickup_datetime": "2019-07-15 19:00:00",
-                "country": "my",
-                "addressArray": [
-                    {
-                        "lat": "1.4846724",
-                        "lng": "103.7732306",
-                        "city": "",
-                        "type": "pickup",
-                        "state": "Johor",
-                        "sequence": "1"
-                    },
-                    {
-                        "lat": "4.5969210",
-                        "lng": "101.0831560",
-                        "city": "",
-                        "type": "dropoff",
-                        "state": "Negeri Perak",
-                        "sequence": "2"
-                    }
-                ],
-                "extraitemsArray": [
-                    {
-                        "itemName": "manpower"
-                    }
-                ]
-            },
-            {
-                "cost_id": "155144",
-                "cost_status": "new",
-                "published_datetime": "2019-07-18 14:28:49",
-                "job_id": "157905",
-                "job_type": "b2c",
-                "transport_type": "9",
-                "fare": "119.00",
-                "pickup_datetime": "2019-07-28 16:28:00",
-                "country": "my",
-                "addressArray": [
-                    {
-                        "lat": "3.1599264",
-                        "lng": "101.6967223",
-                        "city": "Kuala Lumpur",
-                        "type": "pickup",
-                        "state": "Wilayah Persekutuan Kuala Lumpur",
-                        "sequence": "1"
-                    },
-                    {
-                        "lat": "3.1546481",
-                        "lng": "101.7230847",
-                        "city": "Kuala Lumpur",
-                        "type": "dropoff",
-                        "state": "Wilayah Persekutuan Kuala Lumpur",
-                        "sequence": "2"
-                    }
-                ],
-                "extraitemsArray": [
-                    {
-                        "itemName": "manpower"
-                    }
-                ]
-            },
-            {
-                "cost_id": "155192",
-                "cost_status": "new",
-                "published_datetime": "2019-07-19 11:51:48",
-                "job_id": "157963",
-                "job_type": "b2c",
-                "transport_type": "9",
-                "fare": "79.00",
-                "pickup_datetime": "2019-07-19 15:00:00",
-                "country": "my",
-                "addressArray": [
-                    {
-                        "lat": "3.0508498",
-                        "lng": "101.4497096",
-                        "city": "",
-                        "type": "pickup",
-                        "state": "Selangor",
-                        "sequence": "1"
-                    },
-                    {
-                        "lat": "3.0475717",
-                        "lng": "101.4315310",
-                        "city": "",
-                        "type": "dropoff",
-                        "state": "Selangor",
-                        "sequence": "2"
-                    }
-                ],
-                "extraitemsArray": [
-                    {
-                        "itemName": "manpower"
-                    }
-                ]
-            },
-            {
-                "cost_id": "155193",
-                "cost_status": "new",
-                "published_datetime": "2019-07-19 11:52:47",
-                "job_id": "157964",
-                "job_type": "b2c",
-                "transport_type": "9",
-                "fare": "119.00",
-                "pickup_datetime": "2019-07-26 13:52:00",
-                "country": "my",
-                "addressArray": [
-                    {
-                        "lat": "3.1587988",
-                        "lng": "101.7265407",
-                        "city": "Kuala Lumpur",
-                        "type": "pickup",
-                        "state": "Wilayah Persekutuan Kuala Lumpur",
-                        "sequence": "1"
-                    },
-                    {
-                        "lat": "3.1435220",
-                        "lng": "101.6984074",
-                        "city": "Kuala Lumpur",
-                        "type": "dropoff",
-                        "state": "Wilayah Persekutuan Kuala Lumpur",
-                        "sequence": "2"
-                    }
-                ],
-                "extraitemsArray": [
-                    {
-                        "itemName": "manpower"
-                    }
-                ]
-            },
-            {
-                "cost_id": "155196",
-                "cost_status": "new",
-                "published_datetime": "2019-07-19 12:26:01",
-                "job_id": "157967",
-                "job_type": "b2c",
-                "transport_type": "4",
-                "fare": "210.00",
-                "pickup_datetime": "2019-07-20 12:00:00",
-                "country": "my",
-                "addressArray": [
-                    {
-                        "lat": "3.1598677",
-                        "lng": "101.7004738",
-                        "city": "Kuala Lumpur",
-                        "type": "pickup",
-                        "state": "Wilayah Persekutuan Kuala Lumpur",
-                        "sequence": "1"
-                    },
-                    {
-                        "lat": "3.2105770",
-                        "lng": "101.7486950",
-                        "city": "Kuala Lumpur",
-                        "type": "dropoff",
-                        "state": "Selangor",
-                        "sequence": "2"
-                    }
-                ],
-                "extraitemsArray": [
-                    {
-                        "itemName": "Cattos"
-                    }
-                ]
-            }
-        ]
-    }
+    "job_list": {  
+   "status":true,
+   "msg":"Successfully retrieved available jobs",
+   "return":{  
+      "jobs":[  
+         {  
+            "cost_id":"155078",
+            "cost_status":"new",
+            "published_datetime":"2019-07-12 16:07:09",
+            "job_id":"157807",
+            "job_type":"t4b",
+            "transport_type":"1",
+            "fare":"0.00",
+            "pickup_datetime":"2019-07-18 16:00:00",
+            "country":"my",
+            "addressArray":[  
+               {  
+                  "lat":"3.0396314",
+                  "lng":"101.7053286",
+                  "city":"Seri Kembangan",
+                  "type":"pickup",
+                  "state":"Selangor",
+                  "sequence":"1"
+               },
+               {  
+                  "lat":"3.0402939",
+                  "lng":"101.7052853",
+                  "city":"Seri Kembangan",
+                  "type":"dropoff",
+                  "state":"Selangor",
+                  "sequence":"2"
+               }
+            ],
+            "extraitemsArray":[  
+               {  
+                  "itemName":"Manpower"
+               }
+            ]
+         },
+         {  
+            "cost_id":"155090",
+            "cost_status":"new",
+            "published_datetime":"2019-07-15 15:14:39",
+            "job_id":"157822",
+            "job_type":"b2c",
+            "transport_type":"9",
+            "fare":"129.00",
+            "pickup_datetime":"2019-07-23 10:00:00",
+            "country":"my",
+            "addressArray":[  
+               {  
+                  "lat":"3.1259263",
+                  "lng":"101.7871573",
+                  "city":"",
+                  "type":"pickup",
+                  "state":"Selangor",
+                  "sequence":"1"
+               },
+               {  
+                  "lat":"3.0431583",
+                  "lng":"101.4495874",
+                  "city":"",
+                  "type":"dropoff",
+                  "state":"Selangor",
+                  "sequence":"2"
+               }
+            ],
+            "extraitemsArray":[  
+
+            ]
+         },
+         {  
+            "cost_id":"155098",
+            "cost_status":"new",
+            "published_datetime":"2019-07-15 16:47:32",
+            "job_id":"157834",
+            "job_type":"b2c",
+            "transport_type":"9",
+            "fare":"475.00",
+            "pickup_datetime":"2019-07-15 20:00:00",
+            "country":"my",
+            "addressArray":[  
+               {  
+                  "lat":"3.1405713",
+                  "lng":"101.7112744",
+                  "city":"",
+                  "type":"pickup",
+                  "state":"Wilayah Persekutuan Kuala Lumpur",
+                  "sequence":"1"
+               },
+               {  
+                  "lat":"4.5969210",
+                  "lng":"101.0831560",
+                  "city":"",
+                  "type":"dropoff",
+                  "state":"Negeri Perak",
+                  "sequence":"2"
+               }
+            ],
+            "extraitemsArray":[  
+               {  
+                  "itemName":"manpower"
+               }
+            ]
+         },
+         {  
+            "cost_id":"155099",
+            "cost_status":"new",
+            "published_datetime":"2019-07-15 16:56:45",
+            "job_id":"157835",
+            "job_type":"b2c",
+            "transport_type":"9",
+            "fare":"763.00",
+            "pickup_datetime":"2019-07-15 20:00:00",
+            "country":"my",
+            "addressArray":[  
+               {  
+                  "lat":"1.4866095",
+                  "lng":"103.7664073",
+                  "city":"",
+                  "type":"pickup",
+                  "state":"Johor",
+                  "sequence":"1"
+               },
+               {  
+                  "lat":"3.0475717",
+                  "lng":"101.4315310",
+                  "city":"",
+                  "type":"dropoff",
+                  "state":"Selangor",
+                  "sequence":"2"
+               }
+            ],
+            "extraitemsArray":[  
+               {  
+                  "itemName":"manpower"
+               }
+            ]
+         }
+      ]
+   }
 }
 }
