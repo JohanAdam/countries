@@ -1,161 +1,230 @@
 {
-    "countries": [
-        "Canada",
-        "China",
-        "India",
-        "This country",
-        "That country",
-        "That that country",
-        "Yada yad country"
-    ],
-    "job_list": {  
-   "status":true,
-   "msg":"Successfully retrieved available jobs",
-   "return":{  
-      "jobs":[  
-         {  
-            "cost_id":"155078",
-            "cost_status":"new",
-            "published_datetime":"2019-07-12 16:07:09",
-            "job_id":"157807",
-            "job_type":"t4b",
-            "transport_type":"1",
-            "fare":"0.00",
-            "pickup_datetime":"2019-07-18 16:00:00",
-            "country":"my",
-            "addressArray":[  
-               {  
-                  "lat":"3.0396314",
-                  "lng":"101.7053286",
-                  "city":"Seri Kembangan",
-                  "type":"pickup",
-                  "state":"Selangor",
-                  "sequence":"1"
-               },
-               {  
-                  "lat":"3.0402939",
-                  "lng":"101.7052853",
-                  "city":"Melawati",
-                  "type":"dropoff",
-                  "state":"Selangor",
-                  "sequence":"2"
-               }
-            ],
-            "extraitemsArray":[  
-               {  
-                  "itemName":"Manpower"
-               }
-            ]
-         },
-         {  
-            "cost_id":"155090",
-            "cost_status":"new",
-            "published_datetime":"2019-07-15 15:14:39",
-            "job_id":"157822",
-            "job_type":"b2c",
-            "transport_type":"9",
-            "fare":"129.00",
-            "pickup_datetime":"2019-07-23 10:00:00",
-            "country":"my",
-            "addressArray":[  
-               {  
-                  "lat":"3.1259263",
-                  "lng":"101.7871573",
-                  "city":"Wangsa Maju",
-                  "type":"pickup",
-                  "state":"Selangor",
-                  "sequence":"1"
-               },
-               {  
-                  "lat":"3.0431583",
-                  "lng":"101.4495874",
-                  "city":"Puchong",
-                  "type":"dropoff",
-                  "state":"Selangor",
-                  "sequence":"2"
-               }
-            ],
-            "extraitemsArray":[  
+   "countries":[
+      "Canada",
+      "China",
+      "India",
+      "This country",
+      "That country",
+      "That that country",
+      "Yada yad country"
+   ],
+   "job_list":{
+      "status":true,
+      "msg":"Successfully retrieved available jobs",
+      "return":{
+         "jobs":[
+            {
+               "cost_id":"155078",
+               "cost_status":"new",
+               "published_datetime":"2019-07-12 16:07:09",
+               "job_id":"157807",
+               "job_type":"t4b",
+               "transport_type":"1",
+               "fare":"0.00",
+               "pickup_datetime":"2019-07-18 16:00:00",
+               "country":"my",
+               "addressArray":[
+                  {
+                     "lat":"3.0396314",
+                     "lng":"101.7053286",
+                     "city":"Seri Kembangan",
+                     "type":"pickup",
+                     "state":"Selangor",
+                     "sequence":"1"
+                  },
+                  {
+                     "lat":"3.0402939",
+                     "lng":"101.7052853",
+                     "city":"Melawati",
+                     "type":"dropoff",
+                     "state":"Selangor",
+                     "sequence":"2"
+                  }
+               ],
+               "extraitemsArray":[
+                  {
+                     "itemName":"Manpower"
+                  }
+               ]
+            },
+            {
+               "cost_id":"155090",
+               "cost_status":"new",
+               "published_datetime":"2019-07-15 15:14:39",
+               "job_id":"157822",
+               "job_type":"b2c",
+               "transport_type":"9",
+               "fare":"129.00",
+               "pickup_datetime":"2019-07-23 10:00:00",
+               "country":"my",
+               "addressArray":[
+                  {
+                     "lat":"3.1259263",
+                     "lng":"101.7871573",
+                     "city":"Wangsa Maju",
+                     "type":"pickup",
+                     "state":"Selangor",
+                     "sequence":"1"
+                  },
+                  {
+                     "lat":"3.0431583",
+                     "lng":"101.4495874",
+                     "city":"Puchong",
+                     "type":"dropoff",
+                     "state":"Selangor",
+                     "sequence":"2"
+                  }
+               ],
+               "extraitemsArray":[
 
-            ]
-         },
-         {  
-            "cost_id":"155098",
-            "cost_status":"new",
-            "published_datetime":"2019-07-15 16:47:32",
-            "job_id":"157834",
-            "job_type":"b2c",
-            "transport_type":"1",
-            "fare":"475.00",
-            "pickup_datetime":"2019-07-15 20:00:00",
-            "country":"my",
-            "addressArray":[  
-               {  
-                  "lat":"3.1405713",
-                  "lng":"101.7112744",
-                  "city":"Kelantan",
-                  "type":"pickup",
-                  "state":"Wilayah Persekutuan Kuala Lumpur",
-                  "sequence":"1"
-               },
-               {  
-                  "lat":"4.5969210",
-                  "lng":"101.0831560",
-                  "city":"Kelantan Baru",
-                  "type":"dropoff",
-                  "state":"Negeri Perak",
-                  "sequence":"2"
-               }
-            ],
-            "extraitemsArray":[  
-               {  
-                  "itemName":"manpower"
-               }
-            ]
-         },
-         {  
-            "cost_id":"155099",
-            "cost_status":"new",
-            "published_datetime":"2019-07-15 16:56:45",
+               ]
+            },
+            {
+               "cost_id":"155099",
+               "cost_status":"new",
+               "published_datetime":"2019-07-15 16:56:45",
+               "job_id":"157835",
+               "job_type":"b2c",
+               "transport_type":"2",
+               "fare":"763.00",
+               "pickup_datetime":"2019-07-15 20:00:00",
+               "country":"my",
+               "addressArray":[
+                  {
+                     "lat":"1.4866095",
+                     "lng":"103.7664073",
+                     "city":"Shah Alam",
+                     "type":"pickup",
+                     "state":"Johor",
+                     "sequence":"1"
+                  },
+                  {
+                     "lat":"3.0475717",
+                     "lng":"101.4315310",
+                     "city":"Wangsa Maju",
+                     "type":"dropoff",
+                     "state":"Selangor",
+                     "sequence":"2"
+                  },
+                  {
+                     "lat":"3.1323417",
+                     "lng":"105.325310",
+                     "city":"Melaka",
+                     "type":"dropoff",
+                     "state":"Selangor",
+                     "sequence":"2"
+                  }
+               ],
+               "extraitemsArray":[
+                  {
+                     "itemName":"manpower"
+                  }
+               ]
+            }
+         ]
+      }
+   },
+   "inprogress":{
+      "status":true,
+      "msg":"Job details retrived successfully",
+      "return":{
+         "job":{
+            "id":"155099",
             "job_id":"157835",
-            "job_type":"b2c",
-            "transport_type":"2",
-            "fare":"763.00",
+            "cost_status":"new",
+            "price_with_gst":"763.00",
+            "plate_number":null,
+            "remarks":null,
             "pickup_datetime":"2019-07-15 20:00:00",
-            "country":"my",
-            "addressArray":[  
-               {  
-                  "lat":"1.4866095",
-                  "lng":"103.7664073",
-                  "city":"Shah Alam",
+            "transport_type":"9",
+            "distance":"352",
+            "job_price":"763.00",
+            "payment_method":"cod",
+            "customer_name":"Bassel Summak",
+            "customer_phone":"01110020818",
+            "job_number":"#P071994635-A",
+            "job_type":"b2c",
+            "driver_name":null,
+            "vehicle_name":"4 Wheel Drive",
+            "fee":0,
+            "addresses":[
+               {
+                  "id":"358614",
+                  "cost_id":"155099",
+                  "job_address_id":"486030",
+                  "sequence":"1",
+                  "full_address":"77, Jalan Perisai, Taman Sri Tebrau, Johor Bahru, Johor, Malaysia 80050",
+                  "receiver_name":null,
+                  "receiver_nric":null,
+                  "remarks":null,
+                  "lat":null,
+                  "lng":null,
+                  "status":"active",
+                  "ontheway_datetime":null,
+                  "reached_datetime":null,
+                  "started_datetime":null,
+                  "completed_datetime":null,
+                  "failed_datetime":null,
                   "type":"pickup",
-                  "state":"Johor",
-                  "sequence":"1"
+                  "job_lat":"1.4866095",
+                  "job_lng":"103.7664073",
+                  "building_type":"Ground - 1st floor",
+                  "signature_id":null,
+                  "signature_url":null,
+                  "attachments":"[]"
                },
-               {  
-                  "lat":"3.0475717",
-                  "lng":"101.4315310",
-                  "city":"Wangsa Maju",
+               {
+                  "id":"358615",
+                  "cost_id":"155099",
+                  "job_address_id":"486031",
+                  "sequence":"2",
+                  "full_address":"99, Jalan Tepi Sungai, Taman Kota Jaya, Klang, Selangor, Malaysia 41000",
+                  "receiver_name":null,
+                  "receiver_nric":null,
+                  "remarks":null,
+                  "lat":null,
+                  "lng":null,
+                  "status":"active",
+                  "ontheway_datetime":null,
+                  "reached_datetime":null,
+                  "started_datetime":null,
+                  "completed_datetime":null,
+                  "failed_datetime":null,
                   "type":"dropoff",
-                  "state":"Selangor",
-                  "sequence":"2"
-               },
-                {  
-                  "lat":"3.1323417",
-                  "lng":"105.325310",
-                  "city":"Melaka",
-                  "type":"dropoff",
-                  "state":"Selangor",
-                  "sequence":"2"
+                  "job_lat":"3.0475717",
+                  "job_lng":"101.4315310",
+                  "building_type":"Ground - 1st floor",
+                  "signature_id":null,
+                  "signature_url":null,
+                  "attachments":"[]"
                }
             ],
-            "extraitemsArray":[  
-               {  
-                  "itemName":"manpower"
+            "extraitems":[
+               {
+                  "id":"216469",
+                  "tlo_job_extraitem_id":null,
+                  "tlo_job_specialhandling_id":null,
+                  "tlo_job_id":null,
+                  "job_id":"157835",
+                  "name":"manpower",
+                  "description":null,
+                  "type":"extra",
+                  "quantity":"1",
+                  "price":"40.00",
+                  "price_with_gst":"40.00",
+                  "gst_percentage":"0.00",
+                  "gst_price":"0.00",
+                  "wht_percentage":null,
+                  "wht_price":null,
+                  "total_price":"40.00",
+                  "total_price_with_gst":"40.00",
+                  "status":"active",
+                  "delivery_datetime":null,
+                  "record_datetime":"2019-07-15 16:56:19",
+                  "last_update_datetime":null
                }
             ]
          }
-      ]
+      }
    }
-}
 }
