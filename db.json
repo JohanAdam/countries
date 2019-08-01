@@ -35,7 +35,7 @@
                {  
                   "lat":"3.0402939",
                   "lng":"101.7052853",
-                  "city":"Seri Kembangan",
+                  "city":"Melawati",
                   "type":"dropoff",
                   "state":"Selangor",
                   "sequence":"2"
@@ -61,7 +61,7 @@
                {  
                   "lat":"3.1259263",
                   "lng":"101.7871573",
-                  "city":"",
+                  "city":"Wangsa Maju",
                   "type":"pickup",
                   "state":"Selangor",
                   "sequence":"1"
@@ -69,7 +69,7 @@
                {  
                   "lat":"3.0431583",
                   "lng":"101.4495874",
-                  "city":"",
+                  "city":"Puchong",
                   "type":"dropoff",
                   "state":"Selangor",
                   "sequence":"2"
@@ -85,7 +85,7 @@
             "published_datetime":"2019-07-15 16:47:32",
             "job_id":"157834",
             "job_type":"b2c",
-            "transport_type":"9",
+            "transport_type":"1",
             "fare":"475.00",
             "pickup_datetime":"2019-07-15 20:00:00",
             "country":"my",
@@ -93,7 +93,7 @@
                {  
                   "lat":"3.1405713",
                   "lng":"101.7112744",
-                  "city":"",
+                  "city":"Kelantan",
                   "type":"pickup",
                   "state":"Wilayah Persekutuan Kuala Lumpur",
                   "sequence":"1"
@@ -101,7 +101,7 @@
                {  
                   "lat":"4.5969210",
                   "lng":"101.0831560",
-                  "city":"",
+                  "city":"Kelantan Baru",
                   "type":"dropoff",
                   "state":"Negeri Perak",
                   "sequence":"2"
@@ -119,7 +119,7 @@
             "published_datetime":"2019-07-15 16:56:45",
             "job_id":"157835",
             "job_type":"b2c",
-            "transport_type":"9",
+            "transport_type":"2",
             "fare":"763.00",
             "pickup_datetime":"2019-07-15 20:00:00",
             "country":"my",
@@ -127,7 +127,7 @@
                {  
                   "lat":"1.4866095",
                   "lng":"103.7664073",
-                  "city":"",
+                  "city":"Shah Alam",
                   "type":"pickup",
                   "state":"Johor",
                   "sequence":"1"
@@ -135,7 +135,15 @@
                {  
                   "lat":"3.0475717",
                   "lng":"101.4315310",
-                  "city":"",
+                  "city":"Wangsa Maju",
+                  "type":"dropoff",
+                  "state":"Selangor",
+                  "sequence":"2"
+               },
+                {  
+                  "lat":"3.1323417",
+                  "lng":"105.325310",
+                  "city":"Melaka",
                   "type":"dropoff",
                   "state":"Selangor",
                   "sequence":"2"
