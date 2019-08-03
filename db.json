@@ -134,7 +134,7 @@
             "cost_status":"new",
             "price_with_gst":"763.00",
             "plate_number":null,
-            "remarks":null,
+            "remarks":"This is remarks from customer.",
             "pickup_datetime":"2019-07-15 20:00:00",
             "transport_type":"9",
             "distance":"352",
